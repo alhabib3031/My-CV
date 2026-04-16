@@ -26,7 +26,7 @@
 
 🎓 **بكالوريوس في هندسة البرمجيات**  
 🏛️ *كلية تقنية المعلومات - جامعة بنغازي*  
-🔗 [عرض الشهادة](https://github.com/alhabib3031/My-CV/Certification/Certification)
+🔗 [عرض الشهادة](https://github.com/alhabib3031/My-CV/blob/master/Certification/Certification.jpeg)
 
 ---
 

@@ -24,7 +24,7 @@
 
 🎓 **Bachelor of Software Engineering**  
 🏛️ *College of Information Technology - University of Benghazi*  
-🔗 [View Certificate](https://github.com/alhabib3031/My-CV/Certification/Certification)
+🔗 [View Certificate](https://github.com/alhabib3031/My-CV/blob/master/Certification/Certification.jpeg)
 
 ---
 
